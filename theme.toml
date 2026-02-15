@@ -1,0 +1,12 @@
+name            = "obsidian"
+license         = "MIT"
+licenselink     = "https://github.com/dnlfis42/hugo-theme-obsidian/blob/main/LICENSE"
+description     = "Obsidian-style Hugo theme"
+homepage        = "https://github.com/dnlfis42/hugo-theme-obsidian"
+tags            = ["blog"]
+features        = ["blog"]
+min_version     = "0.59.1"
+
+[author]
+    name        = "김태윤"
+    homepage    = "https://github.com/dnlfis42"
